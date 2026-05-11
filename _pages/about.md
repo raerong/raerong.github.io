@@ -25,7 +25,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<div style="height: 2rem;"></div>
+
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 18px; line-height: 1.65;">
 
 Hi there! I am currently a Master’s student in Applied and Computational Mathematics at the University of Washington. I received my B.S. in Applied Mathematics from Xi’an Jiaotong-Liverpool University in 2025, where I completed my undergraduate capstone project under the guidance of Prof. Luca Demangos.
 
 My academic interests lie broadly in operations research, decision-making under uncertainty, and algorithmic methods for optimization. I am currently working on research problems in operations research under the guidance of Prof. Gian-Gabriel Palaci Garcia.
+
+</div>
+
+
