@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Puhantong (Rae) Rong, a master's student in Applied and Computational Mathematics at the University of Washington.
+Hi there! I am currently a Master’s student in Applied and Computational Mathematics at the University of Washington. I received my B.S. in Applied Mathematics from Xi’an Jiaotong-Liverpool University in 2025, where I completed my undergraduate capstone project under the guidance of Prof. Luca Demangos.
 
-My research interests include operations research, mathematical optimization. 
+My academic interests lie broadly in operations research, decision-making under uncertainty, and algorithmic methods for optimization. I am currently working on research problems in operations research under the guidance of Prof. Gian-Gabriel Palaci Garcia.
