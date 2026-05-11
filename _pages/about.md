@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Master's student in Applied and Computational Mathematics, University of Washington
 
 profile:
   align: right
@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there, my name is Puhantong Rong.
+Hi, I am Puhantong (Rae) Rong, a master's student in Applied and Computational Mathematics at the University of Washington.
+
+My research interests include operations research, mathematical optimization. 
