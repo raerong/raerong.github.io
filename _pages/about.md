@@ -27,7 +27,7 @@ latest_posts:
 ---
 <div style="height: 2.2rem;"></div>
 
-<div style="font-family: Georgia, 'Times New Roman', serif; font-size: 18px; line-height: 1.65; max-width: 620px;">
+<div style="font-family: Georgia, 'Times New Roman', serif; font-size: 17px; line-height: 1.6; font-weight: 400; max-width: 600px;">
 
 <p style="margin-bottom: 1.4rem;">
 Hi there! I am currently a Master’s student in Applied and Computational Mathematics at the University of Washington. I received my B.S. in Applied Mathematics from Xi’an Jiaotong-Liverpool University in 2025, where I completed my undergraduate capstone project under the guidance of Prof. Luca Demangos.
